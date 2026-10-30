@@ -1,5 +1,8 @@
 # Автоматизация тестирования веб-сервиса «Интернет Банк»
 
+[![Java CI with Gradle, Selenide and MySQL](https://github.com/Ilich8603/javaAQA-SQL_deadline/actions/workflows/gradle.yaml/badge.svg)](https://github.com/Ilich8603/javaAQA-SQL_deadline/actions/workflows/gradle.yaml)
+
+
 ##  Технологический стек
 * **Язык программирования:** Java 11
 * **Сборщик:** Gradle
